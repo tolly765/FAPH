@@ -179,7 +179,7 @@ This app is currently undergoing a TestFlight - as such, please report any bugs 
     Future.delayed(Duration.zero, () => showDialogIfFirstLoaded(context));
     return Scaffold(
       appBar: AppBar(
-        title: const Text('DFU Photo Overlay'),
+        title: const Text('FAPH'),
       ),
       body: _isLoading
           ? const Center(
