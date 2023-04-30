@@ -1,7 +1,7 @@
 <img src="readme-files/FAPH.png" align="right" height="120px" />
 
 # FAPH
-A 'Forensic Acquisition Photography' application designed to aid DF Examiners with their contmepraneous notes.
+A 'Forensic Acquisition Photography' application designed to aid DF Examiners with their contemporaneous notes.
 
 <img src="https://img.shields.io/badge/Language-Dart-blue" />
 <img src="https://img.shields.io/badge/PRs-Welcome-green" />
